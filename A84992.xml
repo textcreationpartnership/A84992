@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the late proceedings, victory and good success (through Gods providence) obtained by the Parliaments forces under Sir William Waller, at the taking of the town and castle of Arundell, in Sussex, Decem. 20. and Jan. 6. Where were taken above a thousand prisoners, two thousand arms, neer two hundred horse, about a hundred commanders and officers, with great store of treasure.  As it was delivered by a messenger from Sir William Waller, to the Right Honorable, William Lenthall Esq; Speaker to the House of Commons. And by him appointed to be forthwith printed and published.</title>
+            <title>Full relation of the late victory obtained by the Parliaments forces under Sir William Waller at the taking of Arundell.</title>
+            <author>Waller, William, Sir, 1597?-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84992</idno>
+            <idno type="STC">Wing F2364</idno>
+            <idno type="STC">Thomason E81_10</idno>
+            <idno type="STC">ESTC R19306</idno>
+            <idno type="EEBO-CITATION">99860635</idno>
+            <idno type="PROQUEST">99860635</idno>
+            <idno type="VID">155619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155619)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E81[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the late proceedings, victory and good success (through Gods providence) obtained by the Parliaments forces under Sir William Waller, at the taking of the town and castle of Arundell, in Sussex, Decem. 20. and Jan. 6. Where were taken above a thousand prisoners, two thousand arms, neer two hundred horse, about a hundred commanders and officers, with great store of treasure.  As it was delivered by a messenger from Sir William Waller, to the Right Honorable, William Lenthall Esq; Speaker to the House of Commons. And by him appointed to be forthwith printed and published.</title>
+                  <title>Full relation of the late victory obtained by the Parliaments forces under Sir William Waller at the taking of Arundell.</title>
+                  <author>Waller, William, Sir, 1597?-1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Jan. 8. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Arundel Castle (West Sussex) --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155619:1"/>
+            <pb facs="tcp:155619:1" rendition="simple:additions"/>
+            <p>A FULL RELATION Of the late Proceedings, Victory, and good Succeſs <hi>(Through Gods Providence)</hi> Obtained by the PARLIAMENTS Forces Under Sir <hi>William Waller,</hi> At the taking of the Town and Caſtle of Arundell, In Suſſex, Decem. 20. and Jan. 6.</p>
+            <p>Where were taken above a thouſand Priſoners, two thouſand Arms, neer two hundred Horſe, about a hundred Commanders and Officers, with great ſtore of Treaſure.</p>
+            <p>As it was delivered by a Meſſenger from Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> To the Right Honorable, <hi>William Len<g ref="char:EOLhyphen"/>thall</hi> Eſq; Speaker to the Houſe of Commons.</p>
+            <p>And by him appointed to be forthwith printed and publiſhed.</p>
+            <p>Printed by JOHN FIELD, Jan. 8. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155619:2"/>
+            <p>ON Sunday the 17. of <hi>December,</hi> Sir <hi>William Waller</hi> drew forth his Forces and marched to Hazelmoore: On Monday he came to Mid<g ref="char:EOLhyphen"/>hurſt: On Tueſday night he came into Arun<g ref="char:EOLhyphen"/>dell Park; and on Wedneſday morning about eight of the clock valiantly aſſaulted the Town of Arundell on the North-weſt, and South-weſt parts thereof; and about ten of the clock the ſame day, forced the Enemy to fly from their workes, and retreat into Arundell Caſtle: In which ſervice, his new ſouldiers taken at Alton, did good execution; the ſame night a Regiment of Horſe came from his Excellency the Earl of Eſſex to the aide of Sir <hi>VVilliam Waller:</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> poſſeſsing himſelf of the Town, where Pro<g ref="char:EOLhyphen"/>viſion being ſcarce; on Thurſday divers People ſent in ſix load of Victuals freely, which good example of theirs for the publique good, did in<g ref="char:EOLhyphen"/>duce many others to do the like.</p>
+            <p>The ſame day, Colonell <hi>Morley</hi> came thither with a Regiment of Kentiſh Forces; and Major <hi>Bodley</hi> did a notable Expolit; he perceaving divers in the Caſtle looke forth in a Balcone, tooke un<g ref="char:EOLhyphen"/>to himſelf and 12. others, their muſquets, unto a private place of advantage, from whence they altogether diſcharged into the ſaid Belcone, and ſlew and wounded divers of the Enemy; The ſame night 2. Sacres were planted in the Steeple,
+<pb facs="tcp:155619:2"/> with divers muſquetiers, who on Friday mor<g ref="char:EOLhyphen"/>ning betimes, played hotly on the enemy, which appeared on the top of the Caſtle; the ſame day divers were taken in their intended eſcape from the caſtle; Alſo, Sir <hi>Miles Liveſey</hi> brought a Regi<g ref="char:EOLhyphen"/>ment of Horſe, and Sir <hi>William Springate</hi> a Regi<g ref="char:EOLhyphen"/>ment of Foot from Kent, to the aide of Sir <hi>VVil<g ref="char:EOLhyphen"/>liam:</hi> alſo the ſame day, the courſe of a Pond was turned, and more fully perfected on Saturday, the draining whereof emptied the Wels of water within the caſtle, ſo that now the Enemy began to be diſtreſſed with thirſt; the ſame day divers of them fled from the caſtle, and were taken pri<g ref="char:EOLhyphen"/>ſoners; whereupon a ſtronger Guard was kept about the ſaid caſtle.</p>
+            <p>On Sonday divers more fled from the caſtle, and many horſes were turned forth, of which our Souldiers made a good purchaſe, onely one of them was ſhot by the Enemy, whoſe bloody cruelty and inhumane malice did mightily ap<g ref="char:EOLhyphen"/>pear againſt us, in that they took him, and hewed him all to peeces; which doubtleſſe they would have done to every one of us, had we been like<g ref="char:EOLhyphen"/>wiſe in their power. The ſame day Colonell <hi>Hads,</hi> and Colonell <hi>Dixie,</hi> approached towards us with two Regiments out of Kent, for the fur<g ref="char:EOLhyphen"/>ther aid of Sir <hi>Willam Waller;</hi> and alſo divers Re<g ref="char:EOLhyphen"/>giments out of Suffex: On Munday the 25. of De<g ref="char:EOLhyphen"/>cember
+<pb facs="tcp:155619:3"/> the enemy make ſhew of a ſalley, and a<g ref="char:EOLhyphen"/>bout 30. of them appeared unto us from the Caſtle yard, whereupon the Drums did beat, and the Trumpets ſound, and all our men were pre<g ref="char:EOLhyphen"/>ſently gathered together, in a fit poſture to charge the Enemy; who preſently took them<g ref="char:EOLhyphen"/>ſelves to their heels, as the beſt remedy to prevent danger, and ſo manfully retreated.</p>
+            <p>On Tueſday we planted Ordnance in a new place againſt the Caſtle, which made the Enemy that they durſt not peep over the walls to ſhoot at us as they had wont to do. On Wedneſday, di<g ref="char:EOLhyphen"/>vers of the Enemies having forgot the former danger, came forth into the Belcone again, where<g ref="char:EOLhyphen"/>upon we placed divers Muſquetiers in the ruines of an old Chappel, from whence we did good ex<g ref="char:EOLhyphen"/>ecution upon them; the ſame day Sir <hi>Ralph Hopton</hi> came to Petersfield, and quartered his Forces thereabouts, and ſome of the Enemies fled out of the Caſtle, and eſcaped by the River, in a boat made of a raw Oxe hide. On Thurſday more of the Enemies were taken eſcaping out of the Caſtle, and that afternoon, the Enemy hungout a white flag, pretending a parley, and calling to ſome of our men, delivered them Letters directed to our Generall, and Colonell <hi>Marlow,</hi> in which they deſired, Sack, Tobacco, Cards and Dice, to
+<pb facs="tcp:155619:3"/> be ſent vnto them to make merry this idle time, promiſing to return us for them, beef and mutton; but the truth is, they wanted bread and water, and that night did put divers live Oxen over the walls of the Caſtle, for want of fodder; the ſame day, a party of his Excellencies horſe incountred with a party of Sir <hi>Ralph Hoptons</hi> Horſe neer Pe<g ref="char:EOLhyphen"/>tersfield, and took priſoners, two Quarter-maſters one Sergeant, and two common Souldiers. On Friday <hi>Hoptons</hi> army moved towards us, as far as Mardin and Weſdin, and we brought our Am<g ref="char:EOLhyphen"/>munition that was at Midhurſt, to Arundel. On Saturday morning divers fled forth of the caſtle unto us, amongſt whom was one Sergeant, who ſignified the great want of proviſion, having no<g ref="char:EOLhyphen"/>thing but powdred beef, and a few live beeves left them. The moſt materiall paſſages untill Thurſ<g ref="char:EOLhyphen"/>day following, was the Enemies treatingwith too haughty requeſts for men in their Condition, and the daily running away of the Enemy from the Caſtle unto us; notwithſtanding Sir <hi>William</hi> had made it death by Proclamation to thoſe that came forth. On Friday the 5. of Ianuary, 1644. the Enemy began to feel the fruits of their deſerts, being extremely pinched with famine, and there<g ref="char:EOLhyphen"/>upon ſent a meſſage to our Major Generall of the Weſt, the generous ſpirited, Sir Will. Waller, with more humble expreſsions then formerly:
+<pb facs="tcp:155619:4"/> Deſiringa Treaty, by meanes of 3. perſons from either party; and that the Lady Biſhop, with her Daughters, and waiting Gentlewoman might have liberty to come forth &amp; refreſh themſelves. To all which Sir William agreed, and invited the ſaid Lady and Gentlewomen, together with Co<g ref="char:EOLhyphen"/>lonell Bamfield, Major Bovill, and a Captaine, being the perſons ſent from the Caſtle to dine with him, who all had noble reſpect, and good entertainment: Perſons on our part ſent to the caſtle to treate, were, colonell Wems, Major An<g ref="char:EOLhyphen"/>derſon, and a Kentiſh captain: At this Treaty, there was no full agreement made between them in regard the Enemy did not fully condiſcend to Sir Williams demands; and ſo the perſons on ei<g ref="char:EOLhyphen"/>ther ſide were returned, but the Gentlewomen continued with Sir William, who feaſted and entertained them that night; alſo in that after<g ref="char:EOLhyphen"/>noone the Lady Goring and her Daughter came to viſite the Lady Biſhop and her Daughters, one of them being married to the Lady Gorings onely Son, he being in the caſtle; which viſite gave a ſpeedy accompliſhment to our Deſigne: For Miſtreſſe Goring after ſome conference with her Mother in Law, returned to her Husband in the caſtle; and ſhortly after, the enemy ſent a Drum, with colonell Rawlins and Major Mul<g ref="char:EOLhyphen"/>lins, to treat for a finall agreement; upon which
+<pb facs="tcp:155619:4"/> Treaty, they condeſcended to Sir William: The ſubſtance of which agreement was, That all the Enemies ſhould be ſurrendered Priſoners, toge<g ref="char:EOLhyphen"/>ther with the caſtle, all their armes, ammunition, treaſure, and whatſoever they poſſeſſed, into the cuſtody and diſpoſing of Sir William, by 9. of the clock on Saturday morning, being the 6. of this inſtant. For aſſurance whereof, colonell Ravvlins &amp; Major Mullins ingaged themſelves, and alſo promiſed that colonell Edward Foard, and Sir Edvvard Biſhop ſhould immediatly come forth, and ingage themſelves to Sir William al<g ref="char:EOLhyphen"/>ſo: To vvhich purpoſe the ſaid Drum vvas ſent back, and after midnight returned onely vvith a Letter, in vvhich vvere ſome ſimple demands; hereupon Sir William trebled his Guard upon the caſtle, leaſt any eſcape ſhould be made; and returned the Drum, and demanding them to come forthvvith, or elſe he vvould diſſolve the Treaty, and proceed againſt them; whereupon Sir Edward Biſhop, and Colonell Foard came according to agreement, to Sir William, about two a clock in the morning: Thus God brought about this great work, without bloodſhed, and Sir William Waller is poſſeſſed of the ſaid Tovvn and Caſtle of Arundell, vvith a<g ref="char:EOLhyphen"/>bout 100. Officers and Commanders, the chief are, Sir Edvvard Biſhop, Colonell Bamfield,
+<pb facs="tcp:155619:5"/> and Colonell Foard vvith one Doctor Shelling vvorth; beſides, about 2000. armes, vvith am<g ref="char:EOLhyphen"/>munition, and good ſtore of riches to incourage our Valiant Souldiers in their further ſervice, mean while Sir Ralph Hopton hath ſpent his time frivolouſly againſt Warbleton Houſe, be<g ref="char:EOLhyphen"/>twixt Wincheſter and Portſmouth, where wee leave him till divine Iuſtice findes him, and give the vvhole Glory of our ſucceſſe to God.</p>
+            <p>The taking this Town and Caſtle hath been of excellent conſequence to the City of LONDON, as will ſhortly appear to be made manifeſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
